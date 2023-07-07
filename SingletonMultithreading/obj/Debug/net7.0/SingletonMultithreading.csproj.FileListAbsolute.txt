@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\bin\Debug\net7.0\SingletonMultithreading.exe
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\bin\Debug\net7.0\SingletonMultithreading.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\bin\Debug\net7.0\SingletonMultithreading.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\bin\Debug\net7.0\SingletonMultithreading.dll
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\bin\Debug\net7.0\SingletonMultithreading.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.dll
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\refint\SingletonMultithreading.dll
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\SingletonMultithreading.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\Design Patterns\SingletonMultithreading\obj\Debug\net7.0\ref\SingletonMultithreading.dll
